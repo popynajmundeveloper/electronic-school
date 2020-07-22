@@ -145,23 +145,23 @@ body{
 
   .ftr-body{
     background-color: #282531;
-   padding-top: 60px;
+    padding-top: 60px;
     
 }
 
-.segment p{
-   font-weight: 800;
+    .segment p{
+    font-weight: 800;
     margin-left: 80px;
     padding-left: 80px;
 }
 
-.segment ul{
+   .segment ul{
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
-.copyright{
-   padding-top: 50px;
+   .copyright{
+    padding-top: 50px;
     text-align: center;
 }
