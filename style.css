@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Poppins;
+}
+#nav-bar{
+    top: 0;
+    z-index: 10;
+}
+.navbar{
+    background-color:#F0FFF0; 
+    padding: 0 !important;
+}
+.navbar-brand img{
+    height: 40px;
+    padding-left: 20px;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: black;
+    font-weight: 900;
+    
+}
+/*-------banner section-------*/
+#banner{
+    background-color:#F0FFF0 ;
+    color: black;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+#midtext{
+    font-weight: 600;
+}
+#text-clr{
+    color:#21B573;
+}
+#ptext{
+    color: darkgray;
+}
+.btn-btn{
+    background-color:#21B573 ;
+    color: white;
+    border-radius: 30px;
+    width: 100px;
+    height: 40px;
+    border-style: none;
+   
+}
+.col-md-6 img{
+    height: 250px;
+}
+/*-----topics-----*/
+
+#topic{
+    margin-bottom:40px ;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.image-size{
+    height: 60px;
+    width: 50px;
+    margin: auto;
+    margin-top: 15px;
+    
+}
+.bg-color{
+    background-color: #F0FFF0;
+}
+.card-body{
+    margin-left: 50px;
+}
+.cab1{
+    font-weight: 900;
+    color: #413960;
+}
+.cab2{
+    font-weight: 800;
+    color:#585859 ;
+}
+
+
+/*-----courses-----*/
+#course{
+    margin-bottom: 40px;
+}
+
+#course-align{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.course-body{
+    margin-left: 1px;
+}
+#course-img{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#courses img {
+    width: 24px;
+    height: 24px;
+   }
+   
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+
+/*-----Testimonial-----*/
+
+#testimonial{
+    padding-bottom: 80px;
+}
+
+#test-pos{
+    text-align: center;
+    font-weight:bold;
+    font-family:poppins;
+}
+#test-cont{
+    padding-top: 50px;
+}
+.test img{
+      height: 120px;
+      width: 120px;
+}
+  .test-text{
+      font-weight: bold;
+      padding-right: 60px;
+  }
+
+
+  /*-----Footer-----*/
+
+  .ftr-body{
+    background-color: #282531;
+   padding-top: 60px;
+    
+}
+
+.segment p{
+   font-weight: 800;
+    margin-left: 80px;
+    padding-left: 80px;
+}
+
+.segment ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.copyright{
+   padding-top: 50px;
+    text-align: center;
+}
